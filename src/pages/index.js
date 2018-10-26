@@ -4,6 +4,11 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
 export default class IndexPage extends React.Component {
+  componentDidMount() {
+     const s = document.createElement('script');
+     s.src = 'https://squareup.com/appointments/buyer/widget/c9e09730-d1e9-4cb5-93db-5d22fffc4acf/VJPGPX1ZF2ZGC.js';
+     this.instance.appendChild(s);
+   }
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
@@ -12,7 +17,7 @@ export default class IndexPage extends React.Component {
       <Layout>
         <section className="section">
           <div className="container">
-            <script src='https://squareup.com/appointments/buyer/widget/c9e09730-d1e9-4cb5-93db-5d22fffc4acf/VJPGPX1ZF2ZGC.js'></script>
+            <div ref={el => (this.instance = el)} />
           </div>
         </section>
       </Layout>
