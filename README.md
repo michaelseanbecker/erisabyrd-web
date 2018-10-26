@@ -20,7 +20,7 @@ Netlify CMS can run in any frontend web environment, but the quickest way to try
 $ git clone https://github.com/michaelseanbecker/erisabyrd-web.git
 $ cd [REPO_NAME]
 $ yarn
-$ npm run develop
+$ yarn start
 ```
 To test the CMS locally, you'll need run a production build of the site:
 ```
