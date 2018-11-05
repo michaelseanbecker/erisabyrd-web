@@ -1,14 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
 export default class IndexPage extends React.Component {
-  componentDidMount() {
-     const s = document.createElement('script');
-     s.src = 'https://squareup.com/appointments/buyer/widget/c9e09730-d1e9-4cb5-93db-5d22fffc4acf/VJPGPX1ZF2ZGC.js';
-     this.instance.appendChild(s);
-   }
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
@@ -17,7 +12,33 @@ export default class IndexPage extends React.Component {
       <Layout>
         <section className="section">
           <div className="container">
-            <div ref={el => (this.instance = el)} />
+            <div className="content">
+              <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
+            </div>
+            {posts
+              .map(({ node: post }) => (
+                <div
+                  className="content"
+                  style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
+                  key={post.id}
+                >
+                  <p>
+                    <Link className="has-text-primary" to={post.fields.slug}>
+                      {post.frontmatter.title}
+                    </Link>
+                    <span> &bull; </span>
+                    <small>{post.frontmatter.date}</small>
+                  </p>
+                  <p>
+                    {post.excerpt}
+                    <br />
+                    <br />
+                    <Link className="button is-small" to={post.fields.slug}>
+                      Keep Reading →
+                    </Link>
+                  </p>
+                </div>
+              ))}
           </div>
         </section>
       </Layout>
