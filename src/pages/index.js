@@ -2,11 +2,13 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import Content, { HTMLContent } from '../components/Content'
 
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
+    const PostContent = HTMLContent || Content
 
     return (
       <Layout>
@@ -30,7 +32,7 @@ export default class IndexPage extends React.Component {
                     <small>{post.frontmatter.date}</small>
                   </p>
                   <p>
-                    {post.excerpt}
+                    <PostContent content={post.html} />
                     <br />
                     <br />
                     <Link className="button is-small" to={post.fields.slug}>
@@ -63,6 +65,7 @@ export const pageQuery = graphql`
       edges {
         node {
           excerpt(pruneLength: 400)
+          html
           id
           fields {
             slug

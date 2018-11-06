@@ -44,6 +44,7 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
+    'gatsby-remark-responsive-iframe',
     'gatsby-plugin-netlify' // make sure to keep it last in the array
   ],
 }
