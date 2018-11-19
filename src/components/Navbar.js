@@ -31,9 +31,6 @@ const Navbar = () => (
            <a className="navbar-item" href="http://www.erisacrat.com">
              Erisacrat on Instagram
            </a>
-           <Link className="navbar-item" to="/schedule">
-             Schedule a Reading
-           </Link>
            <div className="navbar-item">
              Contact: readings@erisacrat.com
            </div>
