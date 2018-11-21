@@ -2,12 +2,12 @@
 templateKey: blog-post
 title: 'Daily Draw for Tuesday November 20, 2018'
 date: 2018-11-20T17:00:00.000Z
-description: >-
-  I want to start posting a card of the day. Maybe some of you will find it
-  helpful. When people say that they’d like to get into Tarot but they don’t
-  know how to begin, this is how you do it.
+description: Card of the Day
 tags:
   - card of the day
+  - daily draw
+  - 10 of Wands
+  - Lily
 ---
 ![](/img/draw-20181120.png)
 
