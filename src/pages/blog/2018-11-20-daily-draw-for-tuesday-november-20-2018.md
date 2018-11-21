@@ -2,14 +2,14 @@
 templateKey: blog-post
 title: 'Daily Draw for Tuesday November 20, 2018'
 date: 2018-11-20T17:00:00.000Z
-description: >-
-  I want to start posting a card of the day. Maybe some of you will find it
-  helpful. When people say that they’d like to get into Tarot but they don’t
-  know how to begin, this is how you do it.
+description: card of the day
 tags:
   - card of the day
+  - daily draw
+  - 10 of Wands
+  - Lily
 ---
-![](/img/draw-20181120.png)
+![null](/img/img_8983.jpg)
 
 I want to start posting a card of the day. Maybe some of you will find it helpful. When people say that they’d like to get into Tarot but they don’t know how to begin, this is how you do it. Back in the year 2000 when I received my very first deck, the Faerie’s Oracle by Brian Froud and Jessica Macbeth, this is how I learned: one card, per day. I always pulled a card, then took a good long look at it, had a conversation with it, then jotted it down in my journal. After I did that I looked up the meaning in the book. Very often than nought, Jessica Macbeth and I were on the same page, or “same card”, so to speak. Eventually I got through the entire deck and each card felt like a friend. I’ve continued a similar process for all of the decks that have come into my life. I believe that with Tarot the meanings of each card are pretty standard, but the artwork makes all the difference, and each deck has it’s own things to say. You only have to use our intuition and listen.
 
