@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Daily Draw for Tuesday November 28, 2018'
+title: 'Daily Draw for Wednesday November 28, 2018'
 date: 2018-11-28T16:04:31.302Z
 description: Card of the Day
 tags:
