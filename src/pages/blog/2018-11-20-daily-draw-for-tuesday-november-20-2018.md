@@ -8,6 +8,7 @@ tags:
   - daily draw
   - 10 of Wands
   - Lily
+  - Herbal Tarot
 ---
 ![null](/img/img_8983.jpg)
 
