@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Daily Draw for Wednesday December 12, 2018'
-date: 2018-12-13T15:09:00.905Z
+date: 2018-12-12T15:09:00.000Z
 description: Card of the Day
 tags:
   - Card of the Day
