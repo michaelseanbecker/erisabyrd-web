@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Daily Draw for Tuesday, January 8, 2018'
+title: 'Daily Draw for Tuesday, January 8, 2019'
 date: 2019-01-08T17:48:11.541Z
 description: Card of the Day
 tags:
