@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Daily Draw for Wednesday, January 9, 2018'
+title: 'Daily Draw for Wednesday, January 9, 2019'
 date: 2019-01-09T20:09:33.965Z
 description: Card of the Day
 tags:
