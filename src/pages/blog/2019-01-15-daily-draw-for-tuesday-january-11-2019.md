@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Daily Draw for Tuesday, January 11, 2019'
+title: 'Daily Draw for Tuesday, January 15, 2019'
 date: 2019-01-15T17:39:21.465Z
 description: Card of the Day
 tags:
