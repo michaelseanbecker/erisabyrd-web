@@ -1,8 +1,6 @@
 ---
 templateKey: blog-post
-title: >-
-  Lesson 3 Essay, For the East West School of Planetary Herbology Course: My
-  adventures with Carob and Clover, and my love affair with Dandelion 
+title: 'My adventures with Carob and Clover, and my love affair with Dandelion '
 date: 2019-01-25T16:28:16.843Z
 description: East West School of Planetary Herbology Course
 tags:
