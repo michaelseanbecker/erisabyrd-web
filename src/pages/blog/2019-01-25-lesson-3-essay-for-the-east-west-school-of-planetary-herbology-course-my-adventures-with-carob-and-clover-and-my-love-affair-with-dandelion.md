@@ -13,11 +13,7 @@ tags:
   - Lesson 3
   - Essay
 ---
-
-
-
-
-![](/img/2kt02swvrie-hpxapi8zpg.jpg)
+![null](/img/2kt02swvrie-hpxapi8zpg.jpg)
 
 I have had a mental block with this essay. Perhaps I'm in my head. It's not the first time. I started Lesson 3 in December, experimented with all sorts of kitchen herbs, teas, and recipes, and I still couldn't bring myself to write about it. I live in an urban area of Los Angeles, and though we live in a desert, we occasionally get weeds, but they're not from areas that I would necessarily want to forage. I'm always afraid of pesticides or the abundance of dog urine.  However, I have very reputable farmers that I've known for 15 years who have the "good stuff."
 
@@ -31,6 +27,6 @@ When I got home, I thoroughly cleaned the leaves and threw them into a salad. I 
 
 Then one day, Los Angeles had a little bit of rain. It sounds worse than it is, but in the alley behind my condo is a mound of dirt that was removed from our patio when we had a major renovation this past summer, and the most beautiful dandelions, chickweed, and mallow popped up. Three plants, with amazing benefits, just sitting out there ready for the taking. I thought "it's been raining, no one has come out here yet. I'm sure they're fine." However, I looked at them and thought, "No, not yet. I think you can grow bigger." After that, the rain poured for four days straight, and I never got a chance to pick them. When I checked them after the rains,  it looked as though they had been mowed down by an animal with jagged teeth. I suppose I waited too long. ”No, not yet.”, got the better of me.
 
-I felt disgruntled, but my friends at the farmer's market had the greatest surprise. They had bunches of the largest red dandelion leaves I've ever seen.  I grabbed as much as I could and brought it home. I soaked it to remove the sand and then placed it in my fridge to use any time. My family now reaches for the dandelion leaves like they did spinach. In the past, I have used Rose Mountain Herbs dried dandelion leaves and roots to make into tea, but I think I prefer the fresh leaves sautéd. 
+I felt disgruntled, but my friends at the farmer's market had the greatest surprise. They had bunches of the largest dandelion leaves I've ever seen.  I grabbed as much as I could and brought it home. I soaked it to remove the sand and then placed it in my fridge to use any time. My family now reaches for the dandelion leaves like they did spinach. In the past, I have used Rose Mountain Herbs dried dandelion leaves and roots to make into tea, but I think I prefer the fresh leaves sautéd. 
 
 I have always loved dandelion and their magical floating seeds that granted wishes.  I think all children do. When my youngest son was a toddler I asked him what he would like to wish for and he said, "I wish for my seeds to grow into more dandelions." I've always felt the same, but I had no idea that I would love them so much as a healing food. What I'd like to do now is grow them myself. Then I know exactly where they have been and the care that they've had. The next time I find one ready, I'd like to make a wish for more dandelions and blow some seeds around on my back patio. I’d also like to grow other “weeds.” Maybe I’ll grow the chickweed and mallow that I never had a chance to claim. I haven’t had any luck with any other plants but I think the heartiness of the weeds will help them fair better and they’ll be happy, and my family will be happy to have them.
