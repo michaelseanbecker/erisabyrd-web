@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Weekly Reading: Monday, April 29, 2019-Sunday, May 5, 2019'
-date: 2019-04-30T05:22:08.419Z
+date: 2019-04-29T11:22:08.419Z
 description: Weekly Reading
 tags:
   - Weekly Reading
