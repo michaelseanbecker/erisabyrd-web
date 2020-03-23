@@ -1,9 +1,13 @@
 const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
+const redirectPages = require('./src/utils/page-redirect');
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
+  const redirectPageTemplate = path.resolve('./src/templates/redirect-page.js')
+
+
 
   return graphql(`
     {
@@ -68,6 +72,10 @@ exports.createPages = ({ actions, graphql }) => {
         },
       })
     })
+
+    redirectPages([
+                {url: '/giftcards', redirect: 'https://squareup.com/gift/VPGJBJRZF809K/order'},
+            ], createPage, redirectPageTemplate);
   })
 }
 
