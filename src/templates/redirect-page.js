@@ -19,7 +19,7 @@ export default props => {
           <Helmet>
             <meta
               http-equiv="refresh"
-              content={`0;url=${data.site.siteMetadata.siteUrl}${props.pageContext.redirect}`}
+              content={`0;url=${props.pageContext.redirect}`}
             />
           </Helmet>
         );

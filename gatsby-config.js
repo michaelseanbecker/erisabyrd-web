@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Readings with Erisa',
+    siteUrl: 'https://www.erisabyrd.com',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

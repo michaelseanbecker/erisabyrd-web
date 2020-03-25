@@ -28,6 +28,9 @@ const Navbar = () => (
            <a className="navbar-item" href="http://www.byrdlandcraft.com">
              ByrdLand Craft
            </a>
+           <a className="navbar-item" href="https://squ.re/2QCWXPo">
+             Gift Cards
+           </a>
            <a className="navbar-item" href="http://www.erisacrat.com">
              Erisacrat on Instagram
            </a>
