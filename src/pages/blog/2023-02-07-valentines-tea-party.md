@@ -8,6 +8,8 @@ tags:
   - Slone Vintage
 ---
 
+![](/img/val-tea.jpg)
+
 First time I am back doing readings Slone Vintage in two years!
 
 We are celebrating love this Saturday with Jillian’s Valentine’s Tea Party!
