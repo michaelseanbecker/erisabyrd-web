@@ -35,7 +35,7 @@ const Navbar = () => (
              Erisacrat on Instagram
            </a>
            <div className="navbar-item">
-             Contact: readings@erisacrat.com
+             Contact: readings@erisacrat.com | (818) 415-2934
            </div>
          </div>
          <div className="navbar-end" />
