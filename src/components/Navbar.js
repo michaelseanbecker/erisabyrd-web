@@ -35,12 +35,18 @@ const Navbar = () => (
              Erisacrat on Instagram
            </a>
            <div className="navbar-item">
-             Contact: readings@erisacrat.com | (818) 415-2934
+             Contact: readings@erisacrat.com
+           </div>
+          <div className="navbar-item">
+            :
            </div>
          </div>
          <div className="navbar-end" />
       </div>
     </nav>
+    <div className="container">
+      10% of all sessions will help me provide books and charitable donations to support and inspire the love of reading!
+    </div>
   </div>
 )
 
