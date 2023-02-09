@@ -13,9 +13,6 @@ const hrStyles = {
 
 const Navbar = () => (
   <div className="container">
-    <div className="container">
-      10% of all sales will help me provide books and charitable donations to support and inspire the love of reading!
-    </div>
     <div className="container" style={logoStyles} >
       <Link to="/">
         <img src={logo} alt="Erisa Byrd" />
@@ -47,6 +44,9 @@ const Navbar = () => (
          <div className="navbar-end" />
       </div>
     </nav>
+    <div className="container">
+      10% of all sales will help me provide books and charitable donations to support and inspire the love of reading!
+    </div>
   </div>
 )
 
