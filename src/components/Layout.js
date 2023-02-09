@@ -8,6 +8,7 @@ const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="Readings with Erisa" />
     <Navbar />
+    <div>10% of all money made will go to promote the love of reading and book charities.</div>
     <div>{children}</div>
   </div>
 )
