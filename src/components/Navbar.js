@@ -19,10 +19,10 @@ const Navbar = () => (
       </Link>
       <hr style={hrStyles} />
     </div>
-    <div className="container">
-        10% of all money made will go to promote the love of reading and book charities.
-    </div>
     <nav className="navbar is-transparent">
+      <div className="container">
+        10% of all sales will help me provide books and charitable donations to support and inspire the love of reading!
+      </div>
       <div className="container">
          <div className="navbar-start">
            <Link className="navbar-item" to="/">
@@ -38,7 +38,10 @@ const Navbar = () => (
              Erisacrat on Instagram
            </a>
            <div className="navbar-item">
-             Contact: readings@erisacrat.com | (818) 415-2934
+             Contact: readings@erisacrat.com
+           </div>
+          <div className="navbar-item">
+            :
            </div>
          </div>
          <div className="navbar-end" />
