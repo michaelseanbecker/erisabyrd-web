@@ -45,7 +45,7 @@ const Navbar = () => (
       </div>
     </nav>
     <div className="container">
-      10% of all sales will help me provide books and charitable donations to support and inspire the love of reading!
+      10% of all sessions will help me provide books and charitable donations to support and inspire the love of reading!
     </div>
   </div>
 )
