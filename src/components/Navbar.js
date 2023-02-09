@@ -19,6 +19,9 @@ const Navbar = () => (
       </Link>
       <hr style={hrStyles} />
     </div>
+    <div className="container">
+        10% of all money made will go to promote the love of reading and book charities.
+    </div>
     <nav className="navbar is-transparent">
       <div className="container">
          <div className="navbar-start">
