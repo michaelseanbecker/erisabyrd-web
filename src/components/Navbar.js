@@ -38,7 +38,7 @@ const Navbar = () => (
              Contact: readings@erisacrat.com
            </div>
           <div className="navbar-item">
-            :
+            818-415-2934
            </div>
          </div>
          <div className="navbar-end" />
