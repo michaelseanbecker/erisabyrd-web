@@ -1,23 +1,17 @@
 ---
 templateKey: blog-post
-title: "Valentine's Tea Party at Slone Vintage!"
-date: 2023-02-07
+title: "Burbank High School Drama Fundraiser"
+date: 2023-03-18
 description: Event
 tags:
   - Event
-  - Slone Vintage
+  - Burbank High School Drama
 ---
 
-![](/img/val-tea.jpg)
+![](/img/bhsd-tea.jpg)
 
-First time I am back doing readings Slone Vintage in two years!
+You can find me at the Burbank High School Drama Fundraiser for their production of The Elephant Man on Saturday, April 8, from 4:30 pm-6:30 pm.
 
-We are celebrating love this Saturday with Jillian’s Valentine’s Tea Party!
+I will be offering two card readings for $10 to help you see your inner beauty and how you can use it to make the world a better place. Money earned will help spread the joy of reading AND the Burbank High School Drama Department!
 
-💖 I will be doing a special $10 “Kisses and Hugs” Tarot Readings to bring more love into your life, with a special gift for everyone that sits down.
-
-💖 [@shop.littlechimes](https://instagram.com/shop.littlechimes) will have everything you need to adorn yourself or your garden.
-
-💖 [@slonevintage](https://www.instagram.com/slonevintage/) will have fresh flowers in found vases, sweet treats, bubbles, and tea.
-
-💖 Plus, all new vintage hitting the shop! Hope to see you there!
+The Fundraiser is open to the public; hope to see some familiar faces!
