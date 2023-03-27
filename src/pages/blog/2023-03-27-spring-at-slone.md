@@ -11,7 +11,7 @@ tags:
 ![](/img/spring_at_slone.jpg)
 
 Shop, Sip, Spring event
-This Friday come by @slonevintage for some lemony sweet treats some tipsy drinks and a tarot readings from me.
+This Friday come by [@slonevintage](https://www.instagram.com/slonevintage/) for some lemony sweet treats some tipsy drinks and a tarot readings from me.
 
 Slone will be having surprise discounts throughout the day so come sip and stay a while 🌼🍋 🌞🌻
 ✨
