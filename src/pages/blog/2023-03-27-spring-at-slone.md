@@ -10,11 +10,13 @@ tags:
 
 ![](/img/spring_at_slone.jpg)
 
-“Shop, Sip, Spring event
-This Friday come by @slonevintage for some lemony sweet treats some tipsy drinks and a tarot readings from @erisacrat 
+Shop, Sip, Spring event
+This Friday come by @slonevintage for some lemony sweet treats some tipsy drinks and a tarot readings from me.
 
-We will be having surprise discounts throughout the day so come sip and stay a while 🌼🍋 🌞🌻”
+Slone will be having surprise discounts throughout the day so come sip and stay a while 🌼🍋 🌞🌻
 ✨
 
 From 12pm-5pm I'll be giving $10, two card readings: When life gives you lemons, make lemonade! 🍋 
+
+
 Also, Friday is the day after Amy’s birthday. Come celebrate with us! (Don't tell her I told you. 😉)
